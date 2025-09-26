@@ -1,2 +1,21 @@
-# DollarBank_ManualTesting
-Manual testing project including test plan, test cases, and defect reports.
+# Dollar Bank Manual Testing Project
+
+## Description
+This project contains:
+- Test Plan
+- Test Cases
+- Defect Reports
+
+## Tools
+- MS Excel / Word
+
+## Modules Tested
+- Checking Accounts
+- CDs
+- Loans
+- Mortgages
+- Eligibility Forms
+- Location Selector
+
+## Author
+Raksha Sancheti
